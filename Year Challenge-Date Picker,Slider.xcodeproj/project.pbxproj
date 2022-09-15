@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		775D510328D259F200AD8CDA /* ChenYuluoyan-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 775D510228D259F200AD8CDA /* ChenYuluoyan-Thin.ttf */; };
 		77B1D54728D2051200806BED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B1D54628D2051200806BED /* AppDelegate.swift */; };
 		77B1D54928D2051200806BED /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B1D54828D2051200806BED /* SceneDelegate.swift */; };
 		77B1D54B28D2051200806BED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B1D54A28D2051200806BED /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		775D510228D259F200AD8CDA /* ChenYuluoyan-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ChenYuluoyan-Thin.ttf"; sourceTree = "<group>"; };
 		77B1D54328D2051200806BED /* Year Challenge-Date Picker,Slider.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Year Challenge-Date Picker,Slider.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77B1D54628D2051200806BED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77B1D54828D2051200806BED /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		77B1D53A28D2051200806BED = {
 			isa = PBXGroup;
 			children = (
+				775D510228D259F200AD8CDA /* ChenYuluoyan-Thin.ttf */,
 				77B1D54528D2051200806BED /* Year Challenge-Date Picker,Slider */,
 				77B1D54428D2051200806BED /* Products */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				77B1D55328D2051300806BED /* LaunchScreen.storyboard in Resources */,
+				775D510328D259F200AD8CDA /* ChenYuluoyan-Thin.ttf in Resources */,
 				77B1D55028D2051300806BED /* Assets.xcassets in Resources */,
 				77B1D54E28D2051200806BED /* Main.storyboard in Resources */,
 			);
